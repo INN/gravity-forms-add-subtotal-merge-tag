@@ -1,0 +1,23 @@
+#######################
+#   misc .gitignore   #
+#######################
+
+## OS X
+.DS_Store
+
+## Sublime Text
+*.sublime-*
+
+## Translation files
+lang/*.merged
+
+## Misc
+node_modules
+release/
+
+#######################
+#  sphinx .gitignore  #
+#######################
+
+## sphinx build folder
+_build
