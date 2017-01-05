@@ -15,3 +15,8 @@ Here is a short description of the plugin.  This should be no more than 150 char
 This plugin is a copy of http://gravitywiz.com/subtotal-merge-tag-for-calculations/, with some slight modifications
 
 For usage information, see https://github.com/INN/gravity-forms-donate-boilerplate
+
+== Installation ===
+
+1. Download the zip file from this Github respository: https://github.com/INN/gravity-forms-add-subtotal-merge-tag/archive/master.zip
+2. Install the plugin following the manual plugin installation process at https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation
