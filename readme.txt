@@ -4,7 +4,7 @@ Donate link: http://gravitywiz.com/
 Tags: forms, gravity forms
 Requires at least: 4.0
 Tested up to: 4.5.3
-Stable tag: 1.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,8 +15,3 @@ This plugin provides a `{subtotal}` merge tag in Gravity Forms to allow manipula
 This plugin is a copy of http://gravitywiz.com/subtotal-merge-tag-for-calculations/, with some slight modifications
 
 For usage information, see https://github.com/INN/gravity-forms-donate-boilerplate
-
-== Installation ==
-
-1. Download the zip file from this Github respository: https://github.com/INN/gravity-forms-add-subtotal-merge-tag/archive/master.zip
-2. Install the plugin following the manual plugin installation process at https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation

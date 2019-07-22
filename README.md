@@ -1,14 +1,13 @@
 # Gravity Forms Add Subtotal Merge Tag
 
-This plugin provides a `{subtotal}` merge tag in Gravity Forms to allow manipulating the subtotal to calculate a final total.
+**🚨 This repository is no longer maintained. 🚨**
 
-## Description
-
-This plugin is a copy of http://gravitywiz.com/subtotal-merge-tag-for-calculations/, with some slight modifications
-
-For usage information, see https://github.com/INN/gravity-forms-donate-boilerplate
+This repository is an archival mirror of Gravity Forms' official subtotal snippet, which can be found at http://gravitywiz.com/subtotal-merge-tag-for-calculations/.
 
 ## Installation
 
-1. Download the zip file from this Github respository: https://github.com/INN/gravity-forms-add-subtotal-merge-tag/archive/master.zip
-2. Install the plugin following the manual plugin installation process at https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation
+We recommend you instead use the Gravity Forms eCommerce Fields plugin: https://gravitywiz.com/documentation/gravity-forms-ecommerce-fields/
+
+## Description
+
+For usage information, see https://github.com/INN/gravity-forms-donate-boilerplate
